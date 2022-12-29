@@ -4,7 +4,7 @@ Clone this repository (salary_predict) to you computer
 
 - pip install pipenv (skip this step if 'pipenv' has been installed on your computer already)
 
-- cd iris_web && pipenv install --three 
+- cd salary_predict
 
 - pipenv shell
 
